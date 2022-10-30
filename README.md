@@ -1,3 +1,4 @@
+
 # HEXFlow Covers & Backgrounds
 Cover images and background pictures for HEXFlow.<br>
 **The most complete collection of PSVita/PSP/PS1 covers available for HEXFlow.**
@@ -37,7 +38,7 @@ You have just to copy them over to "ux0:/data/HexFlow/" and rename the backgroun
 
 **Note:**<br>
 At the moment most of the covers are EU-covers. You can file an issue for cover requests if you want.<br>
-A .PSD file for Adobe Photoshop is available now too, where you can create your own covers in 250x320! I always export them as 256 color .PNGs to save space.<br>
+A [.PSD file](/sources) for Adobe Photoshop is available now too, where you can create your own covers in 250x320! I always export them as 256 color, 8 bit .PNGs to save space.<br>
 Have fun!
 
 ![Some thumbnails](/img/some-thumbnails.png)
